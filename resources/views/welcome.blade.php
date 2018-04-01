@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    TODO ES CULPA DE GABRIEL......
+                    encontramos la solucion me voy a salar
                 </div>
 
                 <div class="links">
