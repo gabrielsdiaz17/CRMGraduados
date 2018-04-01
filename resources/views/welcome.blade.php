@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    CRM GRADUADOS 
+                    Laravel
                 </div>
 
                 <div class="links">
