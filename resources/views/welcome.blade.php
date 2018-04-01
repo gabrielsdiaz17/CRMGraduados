@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Bienvenidos
+                    TODO ES CULPA DE GABRIEL......
                 </div>
 
                 <div class="links">
